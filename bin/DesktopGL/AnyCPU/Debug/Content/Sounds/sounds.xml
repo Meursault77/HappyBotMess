@@ -1,0 +1,26 @@
+<sounds folder="Sounds">
+
+	<!--
+	<s id="click" file="interface/click"/>		
+	
+	<s id="explosion">
+		<file file="impacts/explode_a"/>
+		<file file="impacts/explode_b"/>
+		<file file="impacts/explode_c"/>
+	</s>
+	-->
+
+	<s id="couldNotSelectSkill" file="couldNotSelectSkill"/>
+	<s id="selectSkill" file="selectSkill"/>
+	<s id="jumpLand" file="jumpLand"/>
+	<s id="jumpStart" file="jumpStart"/>
+	<s id="newTurn" file="newTurn"/>
+	<s id="unitSelect" file="unitSelect"/>
+	<s id="playerAttack" file="playerAttack"/>
+	<s id="enemyAttack" file="enemyAttack"/>
+	<s id="unitDeath" file="unitDeath"/>
+	<s id="enemyDeath" file="enemyDeath"/>
+	<s id="healing" file="healing"/>
+	<s id="error" file="error"/>
+
+</sounds>

@@ -1,0 +1,44 @@
+<language lang="en">
+	<!--> 	
+	<string id=""></string>
+ 	</-->
+
+	<string id="turns"> Turn:</string>
+	<string id="movesLeft">Movement Left</string>
+	<string id="actionsLeft">Actions Left</string>
+	<string id="damage">Damage/Healing</string>
+	<string id="health">Health</string>
+	<string id="ammo">Ammo</string>
+	<string id="moveRange">Movement Range</string>
+	<string id="skillRange">Skill Range</string>
+
+	<string id="Movement">Movement</string>
+	<string id="Attacking">Attack</string>
+	<string id="Healing">Heal</string>
+	<string id="Reloading">Reload</string>
+	<string id="enemyTurn">Enemy Turn</string>
+
+	<string id="continue">Continue</string>
+	<string id="backMenu">Quit To Menu</string>	
+	<string id="quit">Quit To Desktop</string>	
+	<string id="startGame">Start Game</string>	
+
+	<string id="level0Intro">Commander, this is urgent! Our happy military killing robots are buggy. Don't worry they still look happy and fun. But their movement range and damage are tied to the number of bullets in their weapon. The more bullets they have the worse are their skills. They are stuck with enemies on a group of small islands. Bring our happy bots home savely, commander!</string>
+
+	<string id="level1Intro">Good job commander, the happy bots can continue to the next island.</string>
+
+	<string id="level2Intro">Great! One more island to clear and we can get the happy bots savely out of there, commander!</string>
+
+	<string id="gameFinished">You did it commander, our happy bots are save and I won't be eaten alive by our snail overlords!! Thank you! :-)</string>
+
+	<string id="gameOver">Oh no. We failed. No more happy bots. (Try again!)</string>
+
+	<string id="explMouseLeft">Select + Execute</string>
+	<string id="explMouseRight">Unselect + Cancel</string>
+	<string id="explMouseMiddle">Pan Camera</string>
+	<string id="explWASD">Pan Camera</string>
+	<string id="explTab">Select Next Unit</string>
+	<string id="explEnter">End Turn</string>
+
+</language>
+

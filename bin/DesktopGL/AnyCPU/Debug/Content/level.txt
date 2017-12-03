@@ -1,0 +1,39 @@
+# each row of a level must have the same number of chars (counting spaces)
+# enemies: a,b,c (with a being easiest)
+# blocking objects: 1 (cacuts), 2 (wooden box), 3 (barrol)
+# unit spawn: s
+# 0 tile, space is no tile
++Island 3
+  0000000000  
+ 000000000c00 
+000000  000100
+00001000000000
+00000000000b00
+00b00000000220
+ 01000   00000
+ 00000   00000
+ 00000   00000
+ 00s0     0s00
+  000     000 
++Island 2
+     00000    
+   0000b0000  
+  00000000000 
+ 000102020000 
+ 00a0000000b00
+ 0000000001000
+  00000000000 
+  0000 000000 
+   s00 00000  
+   0    0s00  
++Island 1
+  00000    00 
+ 000000   0000
+000a0000000000
+0001003000a000
+00000020000000
+0000000000a000
+00000   00000 
+00s0    0000  
+0s00    000   
+ 000    0000  

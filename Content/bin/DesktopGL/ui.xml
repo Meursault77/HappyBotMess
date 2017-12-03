@@ -1,0 +1,59 @@
+<ui>
+
+	<fonts sub="Fonts/">
+		<Small 	name="Segoe_UI_12"/>
+		<Medium name="Segoe_UI_15_Regular"/>
+		<Large 	name="Segoe_UI_18"/>
+	</fonts>
+
+	<sprites stdAtlas="ui_atlas">
+		<sprite name="panel"  atlas="ui_atlas" 			x="64" y="0" w="32" h="24" 		u="6" l="6" d="6" r="6"/>
+		<sprite name="frame"  atlas="ui_atlas" 			x="96" y="0" w="16" h="16" 		u="6" l="6" d="6" r="6"/>
+		<sprite name="button" atlas="ui_atlas" 			x="32" y="0" w="32" h="24"  	u="6" l="6" d="6" r="6"/>
+		<sprite name="close"  atlas="ui_atlas" 			x="0" y="0"  w="32" h="32" 		u="6" l="6" d="6" r="6"/>
+		<sprite name="title"  atlas="ui_atlas" 			x="0" y="32" w="32" h="16" 		u="6" l="6" d="6" r="6"/>
+		<sprite name="textInput"  atlas="ui_atlas" 		x="32" y="32" w="32" h="16" 	u="6" l="6" d="6" r="6"/>
+		<sprite name="scrollbar"  atlas="ui_atlas" 		x="0" y="48" w="16" h="16" 		u="4" l="4" d="4" r="4"/>
+		<sprite name="scrollHandle"  atlas="ui_atlas" 	x="16" y="48" w="16" h="16" 	u="4" l="4" d="4" r="4"/>
+		<sprite name="checkbox"  atlas="ui_atlas" 		x="0" y="64" w="16" h="16" 		u="7" l="7" d="7" r="7"/>
+		<sprite name="checkboxSelected" atlas="ui_atlas" x="16" y="64" w="16" h="16"	/>
+
+		<sprite name="radio" 	atlas="ui_atlas" 		x="0"  y="80" w="32" h="32"/>
+		<sprite name="radioFill" atlas="ui_atlas" 		x="32" y="80" w="32" h="32"/>
+
+		<sprite name="speedPaused" atlas="ui_atlas"		x="160" y="0" w="14" h="32"/>
+		<sprite name="speedNormal" atlas="ui_atlas"		x="128" y="0" w="16" h="32"/>
+		<sprite name="speedFast" atlas="ui_atlas"		x="128" y="0" w="32" h="32"/>
+		<sprite name="speedFaster" atlas="ui_atlas"		x="144" y="0" w="22" h="32"/>
+
+		<sprite name="speedPausedSel" atlas="ui_atlas"	x="160" y="32" w="14" h="32"/>
+		<sprite name="speedNormalSel" atlas="ui_atlas"	x="128" y="32" w="16" h="32"/>
+		<sprite name="speedFastSel" atlas="ui_atlas"	x="128" y="32" w="32" h="32"/>
+		<sprite name="speedFasterSel" atlas="ui_atlas"	x="144" y="32" w="22" h="32"/>
+
+		<sprite name="Movement" atlas="ui_atlas" 		x="192" y="0" w="32" h="32"/>
+		<sprite name="Attacking" atlas="ui_atlas" 		x="224" y="0" w="32" h="32"/>
+		<sprite name="Healing" 	atlas="ui_atlas" 		x="256" y="0" w="32" h="32"/>
+		<sprite name="Reloading" atlas="ui_atlas" 		x="288" y="0" w="32" h="32"/>
+
+		<sprite name="MovementSelected" atlas="ui_atlas" 		x="192" y="32" w="32" h="32"/>
+		<sprite name="AttackingSelected" atlas="ui_atlas" 		x="224" y="32" w="32" h="32"/>
+		<sprite name="HealingSelected" atlas="ui_atlas" 		x="256" y="32" w="32" h="32"/>
+		<sprite name="ReloadingSelected" atlas="ui_atlas" 		x="288" y="32" w="32" h="32"/>
+
+		<sprite name="musicOn" atlas="ui_atlas" 		x="320" y="0" w="32" h="32"/>
+		<sprite name="musicOff" atlas="ui_atlas" 		x="320" y="32" w="32" h="32"/>
+
+		<sprite name="menu" atlas="ui_atlas" 			x="352" y="0" w="32" h="32"/>
+		<sprite name="nextTurn" atlas="ui_atlas" 			x="352" y="32" w="32" h="32"/>
+
+		<sprite name="mouseLeft" atlas="ui_atlas" 		x="0" y="128" w="32" h="32"/>
+		<sprite name="mouseRight" atlas="ui_atlas" 		x="32" y="128" w="32" h="32"/>
+		<sprite name="mouseMiddle" atlas="ui_atlas" 	x="64" y="128" w="32" h="32"/>
+		<sprite name="tab" atlas="ui_atlas" 			x="96" y="128" w="32" h="32"/>
+		<sprite name="enter" atlas="ui_atlas" 			x="128" y="128" w="32" h="32"/>
+		<sprite name="WASD" atlas="ui_atlas" 			x="160" y="128" w="32" h="32"/>
+
+	</sprites>
+
+</ui>

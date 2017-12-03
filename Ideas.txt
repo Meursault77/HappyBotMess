@@ -1,0 +1,89 @@
+LD40: Rocket Jump Turn Based Game
+
+Idea is for Only One Resource theme, but could be done for different things.
+
+Turn Based Game. ammo and movement is same resource. You simply move by rocket jumping. a turn ends on reloading. Maybe things on map can be activated by
+
+	The more you have, the worse it is:
+		Movement tied to amount of bullets in weapon?!?!
+
+
+	Everything is connected
+		why is this here every damn time?
+		bullets <=> movement distance <=> killing <=> health
+	Floating Islands: 
+		Levels are simply floating islands. Lol
+	Death is useful
+		one squady dies => gives me a power up?
+
+		
+
+Backstory:	
+	Robots and there was a bug...
+	the big new military robot so people dont get killed as much
+	you are the commander testing/controlling these things.
+	on this mission you find out that there is some kind of bug. damage and movement are tied to the bullets in the mag.
+
+
+Movement distance and shot damage is bound to ammo in you weapon. last shot => most damage, most movement reach.
+
+3 bullets:
+	0 bullets left:
+		end of turn
+	1 bullet left:
+		distance 6
+		damage 6
+	2 bullet left:
+		distance 4
+		damage 4
+	3 bullet left:
+		distance 2
+		damage 2
+
+Another idea:
+	You can do one action per turn.
+		Is Movement one action? or can i move once and then one action?
+	shooting ends the turn, other stuff also.
+	but the rules still apply. you cannot simply shoout three times until you have done much damage.
+	The idea behind this is, that you can do excactly one great damage action, then turn ends and possibly you have to reload
+	reloading is also a turn ending action
+	so it costs two turns to do most damage. therefore the damage you would to has to be even higher than just +2
+
+	So it is:
+		One Move and one Action per turn.
+
+	Should movement range still be tight to bullets? YES!
+
+	Is health also worse for more  bullets?
+
+
+Systems needed:
+	
+	Loading tiled maps
+		One map loads the next one on completion
+
+	Do the floating island maps, next one maybe already visible
+		jump to next one after clearing the current
+		have them maybe a little bit bouncing
+			(maybe i need to make the background bouncing instead)
+
+	Talking box for story stuff of the commander.
+
+
+
+Story:
+	Commander, this is urgent! Our happy killing robots are buggy. Don't worry they still look happy and fun. But their movement range and damage is tied to the number of bullets in their weapon. The more bullets they have the smaller is their damage and teir movement range. Because of these bugs their transport drone crashed and they are stuck with enemies on a small island. Bring them home save commander!
+
+	Good job commander, the bots can continue to the next island now.
+
+	Great!. One more island to clear and we can get the bots savely out of there, commander!
+
+	You did it commander, our bots are save and I won't be eaten alive by our snail overlords!! Thank you! :-)
+
+
+
+
+Enemies:
+	1: die Raute. killable with 2 damage, easy
+	2: killable with 3 damage, a little more timing needed esp. with multiple enemies
+	3: killable with 4 damage, maybe have only one or two on last map

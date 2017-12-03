@@ -1,0 +1,44 @@
+<tilesets>
+	<reachHighlight>
+		<ground>
+			<!-- Up 1, Right 2, Down 4, Left 8 -->
+			<t auto="0" x="0" y="6"/>
+			<t auto="1" x="3" y="10"/>
+			<t auto="2" x="2" y="9"/>
+			<t auto="3" x="6" y="9"/>
+			<t auto="4" x="3" y="8"/>
+			<t auto="5" x="3" y="6"/>
+			<t auto="6" x="6" y="7"/>
+			<t auto="7" x="6" y="8"/>
+			<t auto="8" x="4" y="9"/>
+			<t auto="9" x="8" y="9"/>
+			<t auto="10" x="2" y="6"/>
+			<t auto="11" x="7" y="9"/>
+			<t auto="12" x="8" y="7"/>
+			<t auto="13" x="8" y="8"/>
+			<t auto="14" x="7" y="7"/>
+			<t auto="15" x="7" y="8"/>
+		</ground>
+	</reachHighlight>
+	<tileset name="normal">
+		<ground>
+			<!-- Up 1, Right 2, Down 4, Left 8 -->
+			<t auto="0" x="0" y="0"/>
+			<t auto="1" x="3" y="4"/>
+			<t auto="2" x="2" y="3"/>
+			<t auto="3" x="6" y="3"/>
+			<t auto="4" x="3" y="2"/>
+			<t auto="5" x="3" y="0"/>
+			<t auto="6" x="6" y="1"/>
+			<t auto="7" x="6" y="2"/>
+			<t auto="8" x="4" y="3"/>
+			<t auto="9" x="8" y="3"/>
+			<t auto="10" x="2" y="0"/>
+			<t auto="11" x="7" y="3"/>
+			<t auto="12" x="8" y="1"/>
+			<t auto="13" x="8" y="2"/>
+			<t auto="14" x="7" y="1"/>
+			<t auto="15" x="7" y="2"/>
+		</ground>
+	</tileset>
+</tilesets>

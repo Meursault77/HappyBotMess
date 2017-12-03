@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/graphics.png</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Music/firstSong.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Fonts/Segoe_UI_12.spritefont</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Fonts/Segoe_UI_15_Bold.spritefont</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Fonts/Segoe_UI_15_Regular.spritefont</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Fonts/Segoe_UI_18.spritefont</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/ui_atlas.png</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/couldNotSelectSkill.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/jumpLand.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/jumpStart.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/newTurn.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/unitSelect.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/enemyAttack.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/playerAttack.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/enemyDeath.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/unitDeath.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/gameFinished.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/gameOver.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/level0Intro.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/level1Intro.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/level2Intro.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/logo_ingame.png</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/healing.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/selectSkill.wav</File>
+    <File>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/error.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

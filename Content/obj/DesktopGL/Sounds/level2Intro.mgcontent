@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Sounds/level2Intro.wav</SourceFile>
+  <SourceTime>2017-12-03T17:40:34.9546953+01:00</SourceTime>
+  <DestFile>D:/Game Projects/Plattenladen Tycoon/LD40/Content/bin/DesktopGL/Sounds/level2Intro.xnb</DestFile>
+  <DestTime>2017-12-03T17:53:13.3673732+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Game Projects/Plattenladen Tycoon/LD40/Content/Fonts/Segoe_UI_18.spritefont</SourceFile>
+  <SourceTime>2017-04-05T12:48:44.3465269+02:00</SourceTime>
+  <DestFile>D:/Game Projects/Plattenladen Tycoon/LD40/Content/bin/DesktopGL/Fonts/Segoe_UI_18.xnb</DestFile>
+  <DestTime>2017-12-02T13:47:15.0934029+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
